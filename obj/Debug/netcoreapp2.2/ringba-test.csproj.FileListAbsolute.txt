@@ -1,0 +1,11 @@
+/Users/suporte/Hafsa/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.deps.json
+/Users/suporte/Hafsa/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.runtimeconfig.json
+/Users/suporte/Hafsa/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.runtimeconfig.dev.json
+/Users/suporte/Hafsa/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.dll
+/Users/suporte/Hafsa/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.pdb
+/Users/suporte/Hafsa/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.csprojAssemblyReference.cache
+/Users/suporte/Hafsa/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.csproj.CoreCompileInputs.cache
+/Users/suporte/Hafsa/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.AssemblyInfoInputs.cache
+/Users/suporte/Hafsa/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.AssemblyInfo.cs
+/Users/suporte/Hafsa/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.dll
+/Users/suporte/Hafsa/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.pdb
